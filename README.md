@@ -7,3 +7,5 @@ Order of Operations
 i Pull
 ii Work
 iii Push
+
+LET'S CREATE SOME CONFLIIIIIIICT
